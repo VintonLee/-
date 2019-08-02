@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cbs">
+        <item>清华大学出版社</item>
+        <item>人民邮电出版社</item>
+        <item>高等教育出版社</item>
+        <item>科学出版社</item>
+        <item>其他</item>
+    </string-array>
+</resources>
